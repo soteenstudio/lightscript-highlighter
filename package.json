@@ -4,7 +4,8 @@
   "description": "Enhance your experience using the LightScript programming language",
   "main": "build-plugin.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build-plugin.js"
   },
   "author": "SoTeen Studio",
   "license": "Apache-2.0",
