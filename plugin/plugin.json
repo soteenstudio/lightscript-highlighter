@@ -1,0 +1,24 @@
+{
+  "id": "soteen.lightscript.plugin",
+  "name": "LightScript Highlighter",
+  "main": "main.js",
+  "version": "0.1.0-notable",
+  "readme": "README.md",
+  "changelogs": "CHANGELOGS.md",
+  "license": "Apache-2.0",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 304,
+  "price": 0,
+  "keywords": [
+    "lightscript",
+    "language",
+    "highlighter",
+    "suggestion"
+  ],
+  "author": {
+    "name": "SoTeen Studio",
+    "email": "soteenstudio@gmail.com",
+    "github": "soteenstudio"
+  }
+}

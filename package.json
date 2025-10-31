@@ -1,0 +1,15 @@
+{
+  "name": "@lights/highlighter",
+  "version": "0.1.0-notable",
+  "description": "Enhance your experience using the LightScript programming language",
+  "main": "build-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SoTeen Studio",
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "dependencies": {
+    "archiver": "^7.0.1"
+  },
+}
