@@ -20,12 +20,12 @@ Enhance your <strong>experience</strong> using the <strong>LightScript</strong> 
 ## Changelogs
 If you want to see the changelogs of this project, you can visit the yyxx page.
 
-[See changelogs](yyxx)
+[See changelogs](https://github.com/soteenstudio/lightscript-highlighter/blob/main/plugin/CHANGELOGS.md)
 
 ## Contributing
 If you would like to contribute to this project, you can visit our repository.
 
-[Submit a contribution](wwyy)
+[Submit a contribution](https://github.com/soteenstudio/lightscript-highlighter/blob/main/CONTRIBUTING.md)
 
 <div style="display: none; color: black;">
   <style>
