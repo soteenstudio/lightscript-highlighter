@@ -2,7 +2,7 @@
 
  <p align="center">
   <img src="https://img.shields.io/badge/version-0.1.0%20notable-yellow?style=for-the-badge&logo=semver" />
-  <img src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://github.com/soteenstudio/lightscript-highlighter/actions/workflows/build.yml/badge.svg" />
   <img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
   <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=pinboard&logoColor=white" />
 </p>
@@ -18,11 +18,11 @@ Enhance your <strong>experience</strong> using the <strong>LightScript</strong> 
 - Suggestion
 
 ## Changelogs
-If you want to see the changelogs of this project, you can visit the yyxx page.
+We have saved all the changelogs on this project in the changelogs page.
 
 [See changelogs](https://github.com/soteenstudio/lightscript-highlighter/blob/main/plugin/CHANGELOGS.md)
 
 ## Contributing
-If you would like to contribute to this project, you can visit our repository.
+We are open to contributions to this project, you can see how to do it on the contribution page.
 
 [Submit a contribution](https://github.com/soteenstudio/lightscript-highlighter/blob/main/CONTRIBUTING.md)
